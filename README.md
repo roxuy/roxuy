@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning deeper different technologies such as **ruby and javascript**
 
-- 📫 How to reach me? Send me a email to **rgodoylarrosa@gmail.com** 📫
+- 🙂 How to reach me? Send me a email to **rgodoylarrosa@gmail.com** 📫
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
