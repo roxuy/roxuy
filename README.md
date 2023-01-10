@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Rocío</h1>
 <h3 align="center">A passionate full stack developer from Uruguay</h3>
 
-- 🔭 I’m currently working on [instagram-api based project](https://github.com/roxuy/instagram-api)
+- 🔭 I'm currently working on building a restful API from scratch, doing the analysis and documentation (Trello) and trying to use the most popular gems, this project is from my audit and you can check the code here: [instagram-api based project](https://github.com/roxuy/instagram-api)
 
 - 🌱 I’m currently learning deeper different technologies such as **ruby and javascript**
 
