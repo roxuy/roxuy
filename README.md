@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on building a restful API from scratch, doing the analysis and documentation (Trello) and trying to use the most popular gems, this project is from my audit and you can check the code here: [instagram-api based project](https://github.com/roxuy/instagram-api)
 
-- 🌱 I’m currently learning deeper different technologies such as **ruby and javascript**
+- 🌱 I am currently learning more about different technologies like **ruby and javascript**
 
 - 🙂 How to reach me? Send me a email to **rgodoylarrosa@gmail.com** 📫
 
