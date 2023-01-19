@@ -1,7 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Rocío</h1>
 <h3 align="center">A passionate full stack developer from Uruguay</h3>
 
-- 🔭 I'm currently working on building a restful API from scratch, doing the analysis and documentation (Trello) and trying to use the most popular gems, this project is from my audit and you can check the code here: [instagram-api based project](https://github.com/roxuy/instagram-api)
+- 🔭 I'm currently working on :
+
+    - Building a restful API from scratch, doing the analysis and documentation (Trello) and trying to use the most popular gems, this project is from my audit and you can check the code here: [instagram-api based project](https://github.com/roxuy/instagram-api)
+
+    - Developing [target-MVD](https://github.com/roxuy/targetmvd), a Ruby on Rails learning bootcamp project organized by Rootstrap. For this api the bootcamp provides a trello board with a set of feature descriptions and an Api blueprint in order to know the expected result. 
 
 - 🌱 I am currently learning more about different technologies like **ruby and javascript**
 
